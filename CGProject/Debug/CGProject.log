@@ -1,0 +1,13 @@
+﻿  darw.cpp
+D:\cg\LastProject\CGProject\CGProject\darw.cpp(407,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\cg\LastProject\CGProject\CGProject\darw.cpp(630,11): warning C4101: “a”: 未引用的局部变量
+D:\cg\LastProject\CGProject\CGProject\darw.cpp(653,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\cg\LastProject\CGProject\CGProject\darw.cpp(664,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\cg\LastProject\CGProject\CGProject\darw.cpp(715,38): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+D:\cg\LastProject\CGProject\CGProject\darw.cpp(715,47): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+D:\cg\LastProject\CGProject\CGProject\darw.cpp(715,56): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+D:\cg\LastProject\CGProject\CGProject\darw.cpp(779,31): warning C4018: “<”: 有符号/无符号不匹配
+D:\cg\LastProject\CGProject\CGProject\darw.cpp(781,31): warning C4018: “<=”: 有符号/无符号不匹配
+D:\cg\LastProject\CGProject\CGProject\darw.cpp(1020,12): warning C4101: “ts”: 未引用的局部变量
+D:\cg\LastProject\CGProject\CGProject\darw.cpp(1251,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  CGProject.vcxproj -> D:\cg\LastProject\CGProject\Debug\CGProject.exe
